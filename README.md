@@ -1,4 +1,5 @@
-#                                                                      DENİZ YOLU TİCARETİNDE NESNELERİN SINIFLANDIRILMASI ve MEVCUT SAYININ KORUNMASI                                                               
+#                                                                      DENİZ YOLU TİCARETİNDE NESNELERİN SINIFLANDIRILMASI ve 
+#                                                                                     MEVCUT SAYININ KORUNMASI                                                               
  
 
 ### PROJE HAKKINDA
