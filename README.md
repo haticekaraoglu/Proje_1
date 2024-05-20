@@ -44,3 +44,12 @@ deniz yolu taşımacılığında verimliliği artırmak ve envanter yönetimini 
 ## Confusion Matrix Normalized(Normalize Edilmiş Hata Matrisi)
 ![WhatsApp Image 2024-05-13 at 20 40 27](https://github.com/haticekaraoglu/Proje_1/assets/144357081/12a17986-d3ed-4532-be86-dc0f9e6a25fc)
 
+
+## DÜZENLENMİŞ RAPOR
+![1](https://github.com/haticekaraoglu/Proje_1/assets/144357081/d2f2bf26-38c1-4bd0-b727-fd37e0ca73ba)
+
+
+## RAPOR
+![2](https://github.com/haticekaraoglu/Proje_1/assets/144357081/414025c1-b4fd-4d3c-8a7c-78bd1612f4b6)
+
+
