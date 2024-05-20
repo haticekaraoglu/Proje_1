@@ -1,4 +1,4 @@
-#                                                                      DENİZ YOLU TİCARETİNDE NESNELERİN SINIFLANDIRILMASI ve MEVCUT SAYININ KORUNMASI                                                                  **PROJE HAKKINDA**
+#                                                                      DENİZ YOLU TİCARETİNDE NESNELERİN SINIFLANDIRILMASI ve MEVCUT SAYININ KORUNMASI                                                                ### PROJE HAKKINDA
 Bu proje, deniz yolu ticaretinde kullanılan nesnelerin (konteynerler, yükler, gemiler vb.) sınıflandırılmasını ve mevcut sayılarının korunmasını amaçlamaktadır. Projenin temel hedefleri, 
 deniz yolu taşımacılığında verimliliği artırmak ve envanter yönetimini iyileştirmektir.
 ### KULLANIM ALANLARI
