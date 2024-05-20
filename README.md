@@ -1,4 +1,12 @@
-#####                                                                       DENİZ YOLU TİCARETİNDE NESNELERİN SINIFLANDIRILMASI ve MEVCUT SAYININ KORUNMASI                                                                  
+#                                                                      DENİZ YOLU TİCARETİNDE NESNELERİN SINIFLANDIRILMASI ve MEVCUT SAYININ KORUNMASI                                                                  **PROJE HAKKINDA**
+Bu proje, deniz yolu ticaretinde kullanılan nesnelerin (konteynerler, yükler, gemiler vb.) sınıflandırılmasını ve mevcut sayılarının korunmasını amaçlamaktadır. Projenin temel hedefleri, 
+deniz yolu taşımacılığında verimliliği artırmak ve envanter yönetimini iyileştirmektir.
+### KULLANIM ALANLARI
+  *Liman Yönetimi: Limanlardaki yüklerin ve konteynerlerin sayımının ve sınıflandırılmasının yapılması.
+  *Lojistik ve Tedarik Zinciri Yönetimi: Yüklerin izlenmesi ve taşınmasının daha etkin bir şekilde gerçekleştirilmesi.
+  *Gemi Operasyonları: Gemi yüklerinin doğru bir şekilde sınıflandırılması ve yönetilmesi.
+  *Envanter Kontrolü: Deniz yolu taşımacılığında kullanılan tüm nesnelerin sayımının ve takibinin yapılması.
+  *Verimlilik Analizi: Taşımacılık süreçlerinin optimize edilmesi ve verimliliğin artırılması için veri analizi.
 
 ## Confusion Matrix(Hata Matrisi)
 ![WhatsApp Image 2024-05-13 at 20 40 11](https://github.com/haticekaraoglu/Proje_1/assets/144357081/bfcc1370-f60a-4ea8-8f11-6a08c26d8664)
