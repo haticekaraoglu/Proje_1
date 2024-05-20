@@ -7,14 +7,22 @@ Bu proje, deniz yolu ticaretinde kullanılan nesnelerin (konteynerler, yükler, 
 deniz yolu taşımacılığında verimliliği artırmak ve envanter yönetimini iyileştirmektir.
 ### KULLANIM ALANLARI
   *Liman Yönetimi: Limanlardaki yüklerin ve konteynerlerin sayımının ve sınıflandırılmasının yapılması.
+  
   *Lojistik ve Tedarik Zinciri Yönetimi: Yüklerin izlenmesi ve taşınmasının daha etkin bir şekilde gerçekleştirilmesi.
+  
   *Gemi Operasyonları: Gemi yüklerinin doğru bir şekilde sınıflandırılması ve yönetilmesi.
+  
   *Envanter Kontrolü: Deniz yolu taşımacılığında kullanılan tüm nesnelerin sayımının ve takibinin yapılması.
+  
   *Verimlilik Analizi: Taşımacılık süreçlerinin optimize edilmesi ve verimliliğin artırılması için veri analizi.
+  
 ### PROJE İÇERİĞİ
   *Sınıflandırma Modülü: Yüklerin ve konteynerlerin türüne göre sınıflandırılmasını sağlar.
+  
   *Takip Sistemi: Mevcut yüklerin ve konteynerlerin sayımını ve konumunu takip eder.
+  
   *Veri Entegrasyonu: Farklı lojistik ve taşımacılık sistemleri ile entegrasyon sağlar.
+  
   *Raporlama: Yüklerin durumu, konumu ve diğer ilgili bilgileri içeren raporlar oluşturur.
 
 
